@@ -1,0 +1,9 @@
+C:\Users\Rams\git\EjemplosCsharp\BloqueTeclas\BloqueTeclas\bin\Debug\BloqueTeclas.exe.config
+C:\Users\Rams\git\EjemplosCsharp\BloqueTeclas\BloqueTeclas\bin\Debug\BloqueTeclas.exe
+C:\Users\Rams\git\EjemplosCsharp\BloqueTeclas\BloqueTeclas\bin\Debug\BloqueTeclas.pdb
+C:\Users\Rams\git\EjemplosCsharp\BloqueTeclas\BloqueTeclas\obj\Debug\BloqueTeclas.csprojResolveAssemblyReference.cache
+C:\Users\Rams\git\EjemplosCsharp\BloqueTeclas\BloqueTeclas\obj\Debug\BloqueTeclas.Form1.resources
+C:\Users\Rams\git\EjemplosCsharp\BloqueTeclas\BloqueTeclas\obj\Debug\BloqueTeclas.Properties.Resources.resources
+C:\Users\Rams\git\EjemplosCsharp\BloqueTeclas\BloqueTeclas\obj\Debug\BloqueTeclas.csproj.GenerateResource.Cache
+C:\Users\Rams\git\EjemplosCsharp\BloqueTeclas\BloqueTeclas\obj\Debug\BloqueTeclas.exe
+C:\Users\Rams\git\EjemplosCsharp\BloqueTeclas\BloqueTeclas\obj\Debug\BloqueTeclas.pdb
