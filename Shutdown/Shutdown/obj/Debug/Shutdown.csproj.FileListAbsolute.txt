@@ -1,0 +1,12 @@
+C:\Users\Rams\Documents\Visual Studio 2012\Projects\Shutdown\Shutdown\bin\Debug\Shutdown.exe.config
+C:\Users\Rams\Documents\Visual Studio 2012\Projects\Shutdown\Shutdown\bin\Debug\Shutdown.exe
+C:\Users\Rams\Documents\Visual Studio 2012\Projects\Shutdown\Shutdown\bin\Debug\Shutdown.pdb
+C:\Users\Rams\Documents\Visual Studio 2012\Projects\Shutdown\Shutdown\obj\Debug\Shutdown.csprojResolveAssemblyReference.cache
+C:\Users\Rams\Documents\Visual Studio 2012\Projects\Shutdown\Shutdown\obj\Debug\Shutdown.Form1.resources
+C:\Users\Rams\Documents\Visual Studio 2012\Projects\Shutdown\Shutdown\obj\Debug\Shutdown.Properties.Resources.resources
+C:\Users\Rams\Documents\Visual Studio 2012\Projects\Shutdown\Shutdown\obj\Debug\Shutdown.csproj.GenerateResource.Cache
+C:\Users\Rams\Documents\Visual Studio 2012\Projects\Shutdown\Shutdown\obj\Debug\Shutdown.exe
+C:\Users\Rams\Documents\Visual Studio 2012\Projects\Shutdown\Shutdown\obj\Debug\Shutdown.pdb
+C:\Users\Rams\git\EjemplosCsharp\Shutdown\Shutdown\bin\Debug\Shutdown.exe.config
+C:\Users\Rams\git\EjemplosCsharp\Shutdown\Shutdown\obj\Debug\Shutdown.exe
+C:\Users\Rams\git\EjemplosCsharp\Shutdown\Shutdown\obj\Debug\Shutdown.pdb
